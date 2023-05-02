@@ -1,0 +1,26 @@
+.item{
+    background-color: #0697a6;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.9;
+    transition: 0.3s;
+    line-height: 58px;
+    width: 120px;
+    height: 60px;
+    text-decoration: none;
+
+}
+
+.item:hover {opacity: 1}
+
+
+
+.div {
+    height:auto;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 40px;
+    padding: 10px 24px;
+    display: grid;
+}

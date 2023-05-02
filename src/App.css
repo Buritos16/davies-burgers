@@ -1,0 +1,11 @@
+.grid {
+    display: grid;
+    grid-template-areas:
+            "h"
+            "n";
+    align-content: center;
+    justify-items: center;
+    background-color: rgb(57, 169, 219);
+    height: 100vh;
+}
+
